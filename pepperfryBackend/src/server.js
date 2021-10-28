@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const port=process.env.PORT||2345
 
 const connect = require("./configs/db");
 
@@ -21,7 +22,7 @@ app.use("/users", userController);
 
 app.use("/products", productController); 
 
-app.listen(2345, async () => {
+app.listen(port, async () => {
   await connect();
-  console.log("Listening on port 2345"); 
+  console.log(`Listening on port ${port}`); 
 });
