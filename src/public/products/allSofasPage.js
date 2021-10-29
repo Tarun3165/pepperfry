@@ -61,7 +61,7 @@ function showProducts(productData) {
 
 // showProducts(JSON.parse(localStorage.getItem("productData")))
 
-fetch(`http://localhost:2345/products`)
+fetch(`https://newpepperfrywebsite.herokuapp.com/products`)
 .then(function(res){
     return res.json();           
 }).then(function (res){
