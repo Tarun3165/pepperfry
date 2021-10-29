@@ -18,9 +18,9 @@ app.use("/static", express.static(path.join(__dirname, "public")));
 app.set("views", path.join(__dirname, "views/"));
 app.set("view engine", "ejs");
 
-app.use("/https://newpepperfrywebsite.herokuapp.com/users", userController);
+app.use("/https://pepperfryprojects.herokuapp.com/users", userController);
 
-app.use("/https://newpepperfrywebsite.herokuapp.com/products", productController); 
+app.use("/https://pepperfryprojects.herokuapp.com/products", productController); 
 
 app.listen(port, async () => {
   await connect();
