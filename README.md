@@ -104,28 +104,6 @@ All the resources which are used in the project either we fetch those from main 
 
 
 
-## Key Contribution:-
-
-###  By Tarun Singh Rawat -
-
-* Footer Part.
-* Product Details Page.
-* Success Page
-
-###  By Bhaskar Rai -
-
-* Navbar & Dropdown table.
-* Payment Page.
-* Merging of the project.
-
-###  By Rinku Bangale -
- 
- * Home Page
- * Add to cart page.
- * Product Page
- * Filter and Sorting functionalities.
-
-
 
 
 
