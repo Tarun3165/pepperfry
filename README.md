@@ -56,11 +56,19 @@ Our project is a clone of a www.pepperfry.com, where we can purchase home decor 
 All the resources which are used in the project either we fetch those from main website or we take from google. All the resources are belongs to their respective owners. We don't have anykind of ownership over any resources. All images are taken from pepperfry.com, google images, unsplash.com or pexels.com are only for educational and learning puropose. All icons and fonts taken from open sources from google search. We have no copyrights over images, icons or fonts.
 
 
-## KEY CONTRIBUTIONS :-
+## Some Screeshots of our Project :-
 
- ###  By Tarun Singh Rawat -
+### * Home Page 
+![Homepage PF](https://user-images.githubusercontent.com/82999625/141252666-3ffe71ba-8c1d-4497-a77f-411781f9c3c8.png)
 
-* Footer part with about us page
+
+### * Navbar and Drop down
+![Navbar   Dropdown](https://user-images.githubusercontent.com/82999625/141252629-0a46693e-7fc4-4b18-8c34-534b62270198.png)
+
+
+
+
+### * Footer part with about us page
 
 
 ![footer part PF](https://user-images.githubusercontent.com/82999625/141252315-2590895e-4675-4aaf-a3f6-af8595121b15.png)
@@ -71,28 +79,18 @@ All the resources which are used in the project either we fetch those from main 
 ![About us Page PF](https://user-images.githubusercontent.com/82999625/141252480-4c1afd10-733b-47d3-85ce-edd9e80cfdbd.png)
 
 
-
+### * Product page 
+![Product page PF](https://user-images.githubusercontent.com/82999625/141252704-1c1d1a95-4a09-472b-bb36-ac0039d2e469.png)
 
 
 ### * product detail page
 ![product details PF](https://user-images.githubusercontent.com/82999625/141252583-6ec31254-4298-459e-a2da-aa58e9116475.png)
 
 
+### * Add to cart page
 
 
-
-### * Success page
-![success page PF](https://user-images.githubusercontent.com/82999625/141252601-6ad2d5e5-d6cd-4049-93ba-c7b7a9db091b.png)
-
-
-
- ### By Bhaskar Rai -
- 
- 
-
-### * Navbar and Drop down
-![Navbar   Dropdown](https://user-images.githubusercontent.com/82999625/141252629-0a46693e-7fc4-4b18-8c34-534b62270198.png)
-
+![add to cart Page](https://user-images.githubusercontent.com/82999625/141252769-67e3a0a2-38d0-4e0e-a664-da407a631f30.png)
 
 
 
@@ -101,32 +99,81 @@ All the resources which are used in the project either we fetch those from main 
 
 
 
-### * Merging of the project
+### * Success page
+![success page PF](https://user-images.githubusercontent.com/82999625/141252601-6ad2d5e5-d6cd-4049-93ba-c7b7a9db091b.png)
+
+
+
+## Key Contribution:-
+
+###  By Tarun Singh Rawat -
+
+* Footer Part.
+* Product Details Page.
+* Success Page
+
+###  By Bhaskar Rai -
+
+* Navbar & Dropdown table.
+* Payment Page.
+* Merging of the project.
+
+###  By Rinku Bangale -
+ 
+ * Home Page
+ * Add to cart page.
+ * Product Page
+ * Filter and Sorting functionalities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
- ### By Rinku Bangale -
- 
-
-### * Home Page 
-![Homepage PF](https://user-images.githubusercontent.com/82999625/141252666-3ffe71ba-8c1d-4497-a77f-411781f9c3c8.png)
 
 
 
 
-### * Product page 
-![Product page PF](https://user-images.githubusercontent.com/82999625/141252704-1c1d1a95-4a09-472b-bb36-ac0039d2e469.png)
 
 
 
 
-### * Filter and Sorting functionalities.
 
 
-### * Add to cart page
 
 
-![add to cart Page](https://user-images.githubusercontent.com/82999625/141252769-67e3a0a2-38d0-4e0e-a664-da407a631f30.png)
+
 
 
 
